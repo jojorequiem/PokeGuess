@@ -1,6 +1,6 @@
 # PokeGuess
 
-PokéGuess est un jeu de devinettes Pokémon français réalisé en Python. Le but du jeu est de deviner le nom d'un Pokémon en fonction des indices donnés.
+PokéGuess est un jeu de devinettes Pokémon basé sur la 1ère génération et réalisé en Python. Le but du jeu est de deviner le nom d'un Pokémon en fonction des indices donnés.
 
 Comment jouer :
 1. Assurez-vous d'avoir Python 3.10 installé sur votre système.
