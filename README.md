@@ -1,7 +1,7 @@
 # PokéGuess
 
-![Banner](assets/images/banner_1.png)
-![Banner](assets/images/banner_2.png)
+![Banner](images/banner_1.png)
+![Banner](images/banner_2.png)
 
 PokéGuess is a Python game (in French) where you guess 1st generation Pokémon names based on clues. The game includes all assets: database, images, fonts, and music.
 
